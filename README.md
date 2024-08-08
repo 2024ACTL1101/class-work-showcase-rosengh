@@ -28,8 +28,8 @@ This is written in markdown language.
 * [Retirement and Health](super.md)
 * [General Insurance](general.md)
 * [Banking and ERM](banking.md)
-* Coding Assignment: [Algorithmic Trading](algotrading.md) <- filled this
-* Coding Assignment: [CAPM Model](capm.md) <- filled this
+* Coding Assignment: [Algorithmic Trading](algotrading.md) 
+* Coding Assignment: [CAPM Model](capm.md) 
 
 
 
@@ -37,7 +37,7 @@ This is written in markdown language.
 ---
 **Testimonial:**
 
-**John Doe:** (Change to your name)
+**Rose Nguyen:** 
 
 Throughout ACTL1101, I have mastered the topics listed in principles of actuarial science, and the coding assignment work is mine. I feel much more prepared for my future career.
 
